@@ -1,3 +1,5 @@
+# MAINTAINED AT https://git.budlabs.xyz/bud/thumbadder
+
 ## thumbadder - manually add thumbnails to files
 
 first argument needs to be the path to a file.
